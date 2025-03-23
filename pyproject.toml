@@ -1,0 +1,11 @@
+[project]
+name = "schoolbusscheduleeditor"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "pyside6>=6.8.2.1",
+    "pyside6-utils>=1.2.2",
+    "requests>=2.32.3",
+]
